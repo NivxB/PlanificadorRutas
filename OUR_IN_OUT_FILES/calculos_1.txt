@@ -1,0 +1,5 @@
+Ruta 1: Total Distance: 314.95550657182304
+Ruta 2: Total Distance: 251.2303942890336
+Ruta 3: Total Distance: 231.66904751291628
+Ruta 4: Total Distance: 247.11509404752164
+Ruta 5: Total Distance: 245.39042190626293
